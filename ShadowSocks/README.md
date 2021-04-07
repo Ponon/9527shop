@@ -9,9 +9,9 @@
 
 
 ### （3）扫描节点二维码（若识别不出来，请多扫几次）
-> 二维码理论有限时间为1个月，若发现二维码失效请联系客服处理。当前二维码更新时间2021-04-01
+> 点击下方文字“点击下载节点文件”下载节点文件，打开二维码，使用Shadowsocks扫描即可。压缩包有加密，解压密码请查看卡密说明。
 
-<img src="https://user-images.githubusercontent.com/36355307/113801503-8d315180-978b-11eb-86e9-17022fddc4e7.png" alt="drawing" width="400px"/>
+[**点击下载节点文件**](https://github.com/Ponon/9527shop/raw/main/ShadowSocks/%E8%8A%82%E7%82%B9%E6%96%87%E4%BB%B6/2021-04-01%E8%8A%82%E7%82%B9%E6%96%87%E4%BB%B6.zip)
 
 ### （4）选中节点并点击 <img src="https://user-images.githubusercontent.com/36355307/113801589-b81ba580-978b-11eb-97c2-caf87fd8b34d.png" alt="drawing" width="50px"/> 连接
 
