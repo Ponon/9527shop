@@ -7,5 +7,5 @@
 ### 关于
 [进入小铺](http://shop.9527.xyz/)<br/>
 [进入站长个人主页](http://www.9527.xyz/ "请使用移动端设备访问")<br/>
-邮箱地址自动链接 qeeyo@outlook.com<br/>
+联系邮箱 qeeyo@outlook.com<br/>
 > [@ponon](https://github.com/Ponon)
