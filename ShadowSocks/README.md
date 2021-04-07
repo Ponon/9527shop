@@ -5,6 +5,8 @@
 ### （1）使用扫码软件（QQ 只要能识别网站的软件都行）扫码下载并安装软件
 ![image](https://user-images.githubusercontent.com/36355307/113801681-ea2d0780-978b-11eb-8817-ff7bd7271a98.png)
 ### （2）打开Shadowsocks，点击顶部! <img src="https://user-images.githubusercontent.com/36355307/113801489-860a4380-978b-11eb-8305-2b014d262989.png" alt="drawing" width="30px"/> 按钮，在弹出层，点击“扫描二维码” 
+![Uploading image.png…]()
+
 <img src="https://user-images.githubusercontent.com/36355307/113801467-78ed5480-978b-11eb-8ee7-0577dced626a.png" alt="drawing" width="300px"/>
 
 
