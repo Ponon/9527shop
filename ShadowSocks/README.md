@@ -15,15 +15,12 @@
 
 ### （4）选中节点并点击 <img src="https://user-images.githubusercontent.com/36355307/113801589-b81ba580-978b-11eb-97c2-caf87fd8b34d.png" alt="drawing" width="50px"/> 连接
 
-#### 1：图为扫描扫码完成未选中节点界面              
-<img src="https://user-images.githubusercontent.com/36355307/113801538-9fab8b00-978b-11eb-89d5-ae1dd4c5b77a.png" alt="drawing" width="300px"/> 
+#### 左图为扫描扫码完成未选中节点界面 ----------- 右图为选中节点界面（节点左边状态条变化）             
+<img src="https://user-images.githubusercontent.com/36355307/113801538-9fab8b00-978b-11eb-89d5-ae1dd4c5b77a.png" alt="drawing" width="300px"/> ---- <img src="https://user-images.githubusercontent.com/36355307/113801571-afc36a80-978b-11eb-8aca-69b4ae268b1c.png" alt="drawing" width="300px"/> 
 
-#### 2：图为选中节点界面（节点左边状态条变化）
-<img src="https://user-images.githubusercontent.com/36355307/113801571-afc36a80-978b-11eb-8aca-69b4ae268b1c.png" alt="drawing" width="300px"/> 
+### （5）点击 <img src="https://user-images.githubusercontent.com/36355307/113801589-b81ba580-978b-11eb-97c2-caf87fd8b34d.png" alt="drawing" width="50px"/>  连接（<img src="https://user-images.githubusercontent.com/36355307/113801589-b81ba580-978b-11eb-97c2-caf87fd8b34d.png" alt="drawing" width="50px"/> 变为 <img src="https://user-images.githubusercontent.com/36355307/113801601-beaa1d00-978b-11eb-91c2-1b978b12251d.png" alt="drawing" width="50px"/> ，即为连接完成）
 
-#### 3：点击 <img src="https://user-images.githubusercontent.com/36355307/113801589-b81ba580-978b-11eb-97c2-caf87fd8b34d.png" alt="drawing" width="50px"/>  连接（<img src="https://user-images.githubusercontent.com/36355307/113801589-b81ba580-978b-11eb-97c2-caf87fd8b34d.png" alt="drawing" width="50px"/> 变为 <img src="https://user-images.githubusercontent.com/36355307/113801601-beaa1d00-978b-11eb-91c2-1b978b12251d.png" alt="drawing" width="50px"/> ，即为连接完成）
-
-#### 4：测试连接是否成功（点击图一红色标注部分，若返回值为图二示例“连接成功”，则成功，至此安卓端教程结束。）
+### （6）测试连接是否成功（点击图一红色标注部分，若返回值为图二示例“连接成功”，则成功，至此安卓端教程结束。）
 <img src="https://user-images.githubusercontent.com/36355307/113801609-c4076780-978b-11eb-8a83-dfad8f61da80.png" alt="drawing" width="300px"/>       <img src="https://user-images.githubusercontent.com/36355307/113801620-c8338500-978b-11eb-963d-1a0f833ca011.png" alt="drawing" width="300px"/>
 
 > 节点由节点二维码扫描所得，如测试后节点不可用或连接失败，请更换节点尝试连接测试。若出现全部连接失败，请联系客服处理。
