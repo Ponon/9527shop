@@ -2,8 +2,8 @@
 > 前言：本教程只为记录学习使用，24小时内删除，不做任何商业用途。
 
 ## 安卓端（Android）端
-### （1）使用扫码软件（QQ 只要能识别网站的软件都行）下载并安装软件
-![image](https://user-images.githubusercontent.com/36355307/113801456-7428a080-978b-11eb-9c2e-0c4bfef4a291.png)
+### （1）使用扫码软件（QQ 只要能识别网站的软件都行）扫码下载并安装软件
+![image](https://user-images.githubusercontent.com/36355307/113801681-ea2d0780-978b-11eb-8817-ff7bd7271a98.png)
 ### （2）打开Shadowsocks，点击顶部![image](https://user-images.githubusercontent.com/36355307/113801489-860a4380-978b-11eb-8305-2b014d262989.png)
 按钮，在弹出层，点击“扫描二维码” 
 ![image](https://user-images.githubusercontent.com/36355307/113801467-78ed5480-978b-11eb-8ee7-0577dced626a.png)
